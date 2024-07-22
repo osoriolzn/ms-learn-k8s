@@ -1,4 +1,9 @@
-# Create an Azure Kubernetes Service cluster
+# Azure Kubernetes Service Architecture
+<div align="center">
+  <img src="../assets/KubernetesClusters.webp">
+</div>
+
+# Create an Azure Kubernetes Service Cluster
 
 1. Sign in to Azure Cloud Shell with the account you want to deploy resources into.
 
